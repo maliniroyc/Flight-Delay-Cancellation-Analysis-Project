@@ -1,4 +1,6 @@
 # Flight Delay & Cancellation Analysis – SQL & Power BI
+<img width="793" height="400" alt="dataset-cover" src="https://github.com/user-attachments/assets/31564b36-b27b-4bec-8d7b-2878dcafd9c1" />
+
 ### Summary
 Analyzed 500 flight records to uncover root causes of delays and cancellations. Built an automated Power BI dashboard with KPIs, charts, and matrices to deliver actionable insights and improve airline operational performance.
 
