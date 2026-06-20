@@ -1,8 +1,20 @@
 # Flight Delay & Cancellation Analysis – SQL & Power BI
 <img width="793" height="400" alt="dataset-cover" src="https://github.com/user-attachments/assets/31564b36-b27b-4bec-8d7b-2878dcafd9c1" />
 
-### Summary
-Analyzed 500 flight records to uncover root causes of delays and cancellations. Built an automated Power BI dashboard with KPIs, charts, and matrices to deliver actionable insights and improve airline operational performance.
+### Project Overview
+The Flight Delay & Cancellation Analysis project was developed to identify the key factors contributing to airline delays and cancellations and provide actionable insights to improve operational performance. Airlines often face challenges in monitoring service reliability due to inconsistent data, limited visibility into route performance, and the absence of centralized reporting.
+
+Using SQL and Power BI, this project analyzes flight operations data to uncover delay patterns across airlines, airports, routes, and time periods. The outcome is an interactive dashboard that enables stakeholders to monitor critical KPIs, identify operational bottlenecks, and support data-driven decision-making.
+
+### Business Problem
+Frequent flight delays and cancellations negatively impact customer satisfaction, operational efficiency, and airline profitability. Leadership teams lacked a clear view of:
+
+<br>Which airlines experienced the highest delays and cancellations<br>
+<br>Which airports and routes consistently underperformed<br>
+<br>Peak periods contributing to operational bottlenecks<br>
+<br>Overall trends in flight reliability over time<br>
+
+The objective was to transform raw flight data into meaningful business insights that could help optimize scheduling, improve reliability, and reduce customer complaints.
 
 ### Solution
 Cleaned and validated missing departure and delay data using SQL queries.
@@ -45,13 +57,13 @@ Helped leadership reduce customer complaints and optimize scheduling efficiency.
 Built a scalable dashboard framework for ongoing airline performance monitoring.
 
 ### Recommendations
-Focus on evening flights to reduce peak delays.
+Prioritize operational improvements during evening peak hours.
 
-Improve reliability on high‑risk routes (ATL → JFK).
+Investigate and improve reliability on high-risk routes.
 
-Target airports with persistent delays (MIA, PHX, SFO).
+Address recurring delays at airports with poor performance metrics.
 
-Continuously monitor airline performance using the Power BI dashboard.
+Continuously monitor KPIs through dashboard-driven decision making.
 
 ### Screenshot
 <img width="1310" height="737" alt="Screenshot" src="https://github.com/user-attachments/assets/450d930c-14a4-4460-bbf4-8a0032b07620" />
